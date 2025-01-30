@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d37e9519b26d798499aa8bd71a8e71a6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - f7b384f086941d1479406ccc78c782b7: 21300000
+    - 8fd9d321c736d424bbad60d09a87f348: 21300000
+    - b32b46934f14ce74a80b6d0180c06823: 21300000
+    - 81471554a1792a24aabf4dbb290ff64b: 21300000
+    - 046a57e5a28f56147844519b4105ebb1: 21300000
+    - 823b151738c353c46aa3cc51d4ebb2d4: 21300000
+    - eca0a548c7a43214eb582e960efe792f: 21300000
+    - 369f6ead28090da43944f04ecb107ff7: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f7b384f086941d1479406ccc78c782b7, type: 3}
+  - {fileID: 21300000, guid: 8fd9d321c736d424bbad60d09a87f348, type: 3}
+  - {fileID: 21300000, guid: b32b46934f14ce74a80b6d0180c06823, type: 3}
+  - {fileID: 21300000, guid: 81471554a1792a24aabf4dbb290ff64b, type: 3}
+  - {fileID: 21300000, guid: 046a57e5a28f56147844519b4105ebb1, type: 3}
+  - {fileID: 21300000, guid: 823b151738c353c46aa3cc51d4ebb2d4, type: 3}
+  - {fileID: 21300000, guid: eca0a548c7a43214eb582e960efe792f, type: 3}
+  - {fileID: 21300000, guid: 369f6ead28090da43944f04ecb107ff7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 1 card color gray
+  - 5 card color orange
+  - 31
+  - 4 card color yellow
+  - 32
+  - 3 card color purple
+  - 2 card color blue
+  - quad
+  m_RenderDataMap: {}
+  m_Tag: Sprites
+  m_IsVariant: 0

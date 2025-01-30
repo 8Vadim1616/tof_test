@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: monster_11
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: aa0b7ff39150a974f9c6b752fa80a6a0, type: 3}
+    - {fileID: 2800000, guid: eabdf7702b19d1a49a73ca6cc517f614, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 743fc8205bde8ea4d9fb2440e47439a5: 21300000
+    - eabdf7702b19d1a49a73ca6cc517f614: 21300000
+    - 9a03a5510e959c14ea3d5468e7bc6221: 21300000
+    - 3ca15f2223ff0fd4881cd40bfcb7208d: 21300000
+    - a8ec6be38d295994d9d7032ff04465ea: 21300000
+    - a05edc16c6151814c925af94b27155d1: 21300000
+    - 587fec86418f2c74c8f25ccb1fa520fe: 21300000
+    - a242989630e50334db73923380ce9e34: 21300000
+    - bb5a8c0922d7bbe4798c18e3fee51e80: 21300000
+    - aa5d53ebbae8ae7458f8c49990f82d6c: 21300000
+    - a2e6891e7c6862348b75aca1d4f937a3: 21300000
+    - e7cd352e01d9e2b48bb2a0547dd2480a: 21300000
+    - 0021ce7f83ef26d4e94fb661972617e1: 21300000
+    - 4540a78f9bc65c54ab46a26adfa8dc7a: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 743fc8205bde8ea4d9fb2440e47439a5, type: 3}
+  - {fileID: 21300000, guid: eabdf7702b19d1a49a73ca6cc517f614, type: 3}
+  - {fileID: 21300000, guid: 9a03a5510e959c14ea3d5468e7bc6221, type: 3}
+  - {fileID: 21300000, guid: 3ca15f2223ff0fd4881cd40bfcb7208d, type: 3}
+  - {fileID: 21300000, guid: a8ec6be38d295994d9d7032ff04465ea, type: 3}
+  - {fileID: 21300000, guid: a05edc16c6151814c925af94b27155d1, type: 3}
+  - {fileID: 21300000, guid: 587fec86418f2c74c8f25ccb1fa520fe, type: 3}
+  - {fileID: 21300000, guid: a242989630e50334db73923380ce9e34, type: 3}
+  - {fileID: 21300000, guid: bb5a8c0922d7bbe4798c18e3fee51e80, type: 3}
+  - {fileID: 21300000, guid: aa5d53ebbae8ae7458f8c49990f82d6c, type: 3}
+  - {fileID: 21300000, guid: a2e6891e7c6862348b75aca1d4f937a3, type: 3}
+  - {fileID: 21300000, guid: e7cd352e01d9e2b48bb2a0547dd2480a, type: 3}
+  - {fileID: 21300000, guid: 0021ce7f83ef26d4e94fb661972617e1, type: 3}
+  - {fileID: 21300000, guid: 4540a78f9bc65c54ab46a26adfa8dc7a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - monster_11-move_06
+  - quad_chars
+  - monster_11-dead_06
+  - monster_11-dead_14
+  - monster_11-move_16
+  - monster_11-dead_08
+  - monster_11-move_14
+  - monster_11-move_09
+  - monster_11-move_03
+  - monster_11-move_00
+  - monster_11-move_12
+  - monster_11-dead_11
+  - monster_11-dead_03
+  - monster_11-dead_00
+  m_RenderDataMap: {}
+  m_Tag: monster_11
+  m_IsVariant: 0

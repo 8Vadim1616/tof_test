@@ -1,0 +1,21 @@
+{
+    "name": "HuaweiEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2353d95a5aa6e334fa97e1eb25e5d03a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "!UNITY_STANDALONE",
+        "BUILD_HUAWEI"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

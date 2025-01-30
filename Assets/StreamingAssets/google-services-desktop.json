@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "560574756041",
+    "project_id": "royal-warriors-84404",
+    "storage_bucket": "royal-warriors-84404.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560574756041:android:0456a4223ddd371a414918",
+        "android_client_info": {
+          "package_name": "com.playgenes.alliancedefence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYoOXmw-kiALYUnEUzvVPg2qLo62yf7yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560574756041:android:1699c6b21837b565414918",
+        "android_client_info": {
+          "package_name": "com.playgenes.warriors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYoOXmw-kiALYUnEUzvVPg2qLo62yf7yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
